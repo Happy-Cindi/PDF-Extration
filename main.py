@@ -30,7 +30,6 @@ def ocr_image(image_bytes):
 @app.get("/extract-all")
 def read_root(url: str):
     
-    
 
     # -----------------------
     # DOWNLOAD PDF
