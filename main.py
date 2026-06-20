@@ -12,7 +12,6 @@ app = FastAPI()
 IMAGE_DIR = "images"
 os.makedirs(IMAGE_DIR, exist_ok=True)
 
-
 # -----------------------
 # OCR FUNCTION
 # -----------------------
